@@ -13,3 +13,6 @@ The first function will get the forecast url and call the second function passin
 ### Leasons learned
 
 The file index1.js was my first attempt.  Did not have the expected result becasue I did not nest functions correctly.
+
+### Architecture
+![Architecture Diagram]( "Architecture")
