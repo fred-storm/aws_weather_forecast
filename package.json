@@ -1,0 +1,11 @@
+{
+  "name": "rn_wx",
+  "version": "1.0.0",
+  "description": "Redneck Weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Frederick",
+  "license": "MIT"
+}
