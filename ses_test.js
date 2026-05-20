@@ -5,7 +5,7 @@ const input = {
       
     ],
     "ToAddresses": [
-      "adam.frederick04+sestesting@gmail.com"
+      "someemailaddress+sestesting@gmail.com"
     ]
   },
   "Message": {
